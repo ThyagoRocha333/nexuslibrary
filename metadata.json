@@ -1,0 +1,6 @@
+{
+  "name": "NexusLibrary",
+  "description": "Aplicativo do Estudante e Painel Administrativo",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
